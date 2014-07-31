@@ -26,6 +26,7 @@ b=c
 puts "after swaping value of a #{a}"
 puts "after swaping value of b #{b}"
 end
+
 swap_with_temp(30,40)
 
 # 2. Write any one use case of === operator.
@@ -45,7 +46,7 @@ puts "#{alphabets}"
 
 # 4. Print 'Ho! Ho! Ho! Merry Christmas!' using string interpolation and * operator.
 # Your answer here...
-str2="ho\! " * 3
+str2="Ho\! " * 3
 puts "#{str2} Merry Christmas!"
 
 # 5. Write a ruby program that perform following operations:
